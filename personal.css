@@ -1,0 +1,27 @@
+*, html,body {
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    background: url("background.jpg.jpg") no-repeat;
+    background-size: cover;
+    backdrop-filter: blur(3px);
+  }
+  h3{
+    color: aliceblue;
+  }
+  .ceterbox{
+    border: 1px solid white;
+    width: 500px;
+    margin: 100px auto;
+    background-color: rgba(0, 0, 0, 0.664);
+   
+}
+a{
+    color: white;
+}
+   .social{
+   border: 1px    ;
+  margin: 10px;
+    background-color: rgba(128, 128, 128, 0.281);
+}
